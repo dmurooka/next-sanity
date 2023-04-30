@@ -1,5 +1,5 @@
 import { defineConfig } from "sanity";
-import {deskTool } from 'sanity/desk';
+import { deskTool } from 'sanity/desk';
 
 
 const config = defineConfig({
