@@ -4,7 +4,9 @@ export default async function Home() {
   const projects = await getProjects();
 
   return (
-    <div>
+    <div className="max-w-5xl mx-auto">
+      <h1 className="text-7xl font-extrabold">Hello I'm Kapehe!</h1>
+
       {projects.map((project) => (
         <div key={project._id}>{project.name}</div>
       ))}
