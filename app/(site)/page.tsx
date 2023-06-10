@@ -17,7 +17,7 @@ export default async function Home() {
 
       <p className="mt-3 text-xl text-gray-600">
         Aloha everyone! I am a founder. Check out my projects! Ultimately, I am
-        building community with love.
+        building community with full of love.
       </p>
 
       <h2 className="mt-24 font-bold text-gray-700 text-3xl">My Projects</h2>
